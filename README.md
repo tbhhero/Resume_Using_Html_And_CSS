@@ -5,7 +5,7 @@ This project is a simple personal resume website built using HTML and CSS. The d
 
 ## Screenshot
 
-![Resume Screenshot](screenshot/screenshot.png)
+<img src="screenshot/screenshot.png" alt="Screenshot" height="720">
 
 ## How to Use
 
